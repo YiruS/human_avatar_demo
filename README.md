@@ -7,6 +7,6 @@ See collab notebook for details: [link](https://colab.research.google.com/drive/
 
 
 # Acknowledgements
-(1) [SimSwap](https://arxiv.org/pdf/2106.06340.pdf) for its face swaping feature
-(2) [Tortoise-tts](https://github.com/neonbjb/tortoise-tts/tree/main) for its text-to-speech feature
-(3) [Wav2Lip](https://arxiv.org/pdf/2008.10010.pdf) for its lip sync and generation
+- [SimSwap](https://arxiv.org/pdf/2106.06340.pdf) for its face swaping feature
+- [Tortoise-tts](https://github.com/neonbjb/tortoise-tts/tree/main) for its text-to-speech feature
+- [Wav2Lip](https://arxiv.org/pdf/2008.10010.pdf) for its lip sync and generation
